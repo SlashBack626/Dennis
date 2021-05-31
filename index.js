@@ -4,4 +4,6 @@ function function1() {
   console.log("Heyy");
 }
 
-function function2() {}
+function function2() {
+  console.log("Moin");
+}
